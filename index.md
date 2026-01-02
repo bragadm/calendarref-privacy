@@ -13,3 +13,8 @@ All calendar calculations are performed locally on the device.
 
 If this behavior changes in a future version, this privacy policy will be updated accordingly.
 
+## Disclaimer
+
+CalendarRef is provided “as is” without warranties of any kind, express or implied.
+
+The developer makes no guarantees regarding the accuracy, completeness, or reliability of calendar data. Use of the app is at the user’s own discretion and risk.
