@@ -18,3 +18,9 @@ If this behavior changes in a future version, this privacy policy will be update
 CalendarRef is provided “as is” without warranties of any kind, express or implied.
 
 The developer makes no guarantees regarding the accuracy, completeness, or reliability of calendar data. Use of the app is at the user’s own discretion and risk.
+
+## Contact
+If you have questions about this privacy policy, you may contact:
+
+Derrick Braga  
+bragadm+calendarref@hotmail.com
